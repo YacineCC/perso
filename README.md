@@ -1,7 +1,7 @@
 # perso
 
-Etudiant en licence informatique essayant de s'améliorer.
+CS student improving.
 
 
 
-projets perso
+
